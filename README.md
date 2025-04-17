@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Bereket</h1>
-<h3 align="center">A software engineer codes to create innovative digital solutions.</h3>
+<h3 align="center">A software engineer codes to create innovative digital solutions | Creative Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelbereket123&label=Profile%20views&color=0e75b6&style=flat" alt="samuelbereket123" /> </p>
 
