@@ -28,7 +28,7 @@ I can turn designs into working products, optimize apps for speed and usability,
 - 🔭 I’m currently working on a online registration form alongside with Supabase on space related website [HammerSpacecrafts](https://register-uq9c.vercel.app/)  
   
 
-- 🌱 I’m currently learning Next.js, Python, Python-telegram-bot and Databases.  
+- 🌱 I’m currently learning Next.js, Python, Python-telegram-bot, Databases and React Native.  
   
 
 - ❓ Ask me about anything related to web applications.  
